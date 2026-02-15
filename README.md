@@ -1,6 +1,6 @@
 # XenForo Boxcoin Crypto Payment Add-on — Accept Bitcoin, Ethereum & 30+ Cryptocurrencies
 
-![Boxcoin Payment Integration for XenForo](https://raw.githubusercontent.com/nixbro/xenforo-boxcoin-payment-addon/main/%7B4F05B99A-1C15-4CA2-84D3-03254BC34431%7D.png)
+
 
 [![XenForo 2.1+](https://img.shields.io/badge/XenForo-2.1%2B-blue?style=flat-square)](https://xenforo.com)
 [![PHP 7.2+](https://img.shields.io/badge/PHP-7.2%2B-777BB4?style=flat-square&logo=php&logoColor=white)](https://php.net)
@@ -10,6 +10,9 @@
 **XenForo payment add-on that auto-upgrades user groups when Boxcoin cryptocurrency payments complete. Encrypted checkouts, hardened webhook pipeline, full transaction logging. Zero fees, self-hosted, no third-party services.**
 
 Built by [Nixnode](https://nixnode.dev) | Contact: [@nixnode on Telegram](https://t.me/nixnode)
+
+---
+![Boxcoin Payment Integration for XenForo](https://raw.githubusercontent.com/nixbro/xenforo-boxcoin-payment-addon/main/%7B4F05B99A-1C15-4CA2-84D3-03254BC34431%7D.png)
 
 ---
 
